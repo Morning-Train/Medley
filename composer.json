@@ -22,6 +22,7 @@
         "morningmedley/database": "dev-master",
         "morningmedley/hook": "dev-master",
         "morningmedley/view": "dev-master",
+        "morningmedley/route": "dev-master",
         "morningmedley/wordpress-config": "dev-master"
     },
     "require-dev":{
