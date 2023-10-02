@@ -1,0 +1,36 @@
+{
+    "name": "morningmedley/medley",
+    "description": "A framework",
+    "keywords": [
+        "wordpress",
+        "morningtrain",
+        "morningmedley",
+        "framework"
+    ],
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Morningtrain",
+            "email": "mh@morningtrain.dk"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "morningmedley/application-container": "dev-master",
+        "morningmedley/block": "dev-master",
+        "morningmedley/database": "dev-master",
+        "morningmedley/hook": "dev-master",
+        "morningmedley/view": "dev-master",
+        "morningmedley/wordpress-config": "dev-master"
+    },
+    "require-dev":{
+        "morningmedley/service-provider-detector": "dev-master"
+    },
+    "prefer-stable": true,
+    "config": {
+        "allow-plugins": {
+            "morningmedley/service-provider-detector": true
+        }
+    }
+}
