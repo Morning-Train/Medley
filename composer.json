@@ -7,31 +7,21 @@
         "morningmedley",
         "framework"
     ],
-    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
-            "name": "Morningtrain",
+            "name": "Mathias Munk",
             "email": "mh@morningtrain.dk"
         }
     ],
     "require": {
         "php": "^8.0",
-        "morningmedley/application-container": "dev-master",
-        "morningmedley/block": "dev-master",
-        "morningmedley/database": "dev-master",
-        "morningmedley/hook": "dev-master",
-        "morningmedley/view": "dev-master",
-        "morningmedley/route": "dev-master",
-        "morningmedley/wordpress-config": "dev-master"
-    },
-    "require-dev":{
-        "morningmedley/service-provider-detector": "dev-master"
-    },
-    "prefer-stable": true,
-    "config": {
-        "allow-plugins": {
-            "morningmedley/service-provider-detector": true
-        }
+        "morningmedley/application": "^0",
+        "morningmedley/block": "^0",
+        "morningmedley/database": "^0",
+        "morningmedley/hook": "^0",
+        "morningmedley/view": "^0",
+        "morningmedley/route": "^0",
+        "morningmedley/wordpress-config": "^0"
     }
 }
