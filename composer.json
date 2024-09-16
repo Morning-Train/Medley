@@ -16,12 +16,12 @@
     ],
     "require": {
         "php": "^8.0",
-        "morningmedley/application": "^0",
-        "morningmedley/block": "^0",
-        "morningmedley/database": "^0",
-        "morningmedley/hook": "^0",
-        "morningmedley/view": "^0",
-        "morningmedley/route": "^0",
-        "morningmedley/wordpress-config": "^0"
+        "morningmedley/application": "0.1.*",
+        "morningmedley/block": "^0.1.*",
+        "morningmedley/database": "0.1.*",
+        "morningmedley/hook": "0.1.*",
+        "morningmedley/view": "0.1.*",
+        "morningmedley/route": "0.1.*",
+        "morningmedley/wordpress-config": "0.1.*"
     }
 }
