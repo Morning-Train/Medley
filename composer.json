@@ -15,13 +15,14 @@
         }
     ],
     "require": {
-        "php": "^8.0",
-        "morningmedley/application": "0.1.*",
-        "morningmedley/block": "0.1.*",
-        "morningmedley/database": "0.1.*",
-        "morningmedley/hook": "0.1.*",
-        "morningmedley/view": "0.1.*",
-        "morningmedley/route": "0.1.*",
-        "morningmedley/wordpress-config": "0.1.*"
+        "php": "^8.2",
+        "morningmedley/application": "0.2.*",
+        "morningmedley/block": "0.2.*",
+        "morningmedley/database": "0.2.*",
+        "morningmedley/queue": "0.2.*",
+        "morningmedley/hook": "0.2.*",
+        "morningmedley/view": "0.2.*",
+        "morningmedley/route": "0.2.*",
+        "morningmedley/wordpress-config": "0.2.*"
     }
 }
