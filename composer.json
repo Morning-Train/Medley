@@ -16,13 +16,13 @@
     ],
     "require": {
         "php": "^8.2",
-        "morningmedley/application": "^0.3",
-        "morningmedley/block": "^0.3",
-        "morningmedley/database": "^0.3",
-        "morningmedley/queue": "^0.3",
-        "morningmedley/hook": "^0.3",
-        "morningmedley/view": "^0.3",
-        "morningmedley/route": "^0.3",
-        "morningmedley/wordpress-config": "^0.3"
+        "morningmedley/application": "^0.4",
+        "morningmedley/block": "^0.4",
+        "morningmedley/database": "^0.4",
+        "morningmedley/queue": "^0.4",
+        "morningmedley/hook": "^0.4",
+        "morningmedley/view": "^0.4",
+        "morningmedley/route": "^0.4",
+        "morningmedley/wordpress-config": "^0.4"
     }
 }
