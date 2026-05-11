@@ -1,6 +1,7 @@
 {
     "name": "morningmedley/medley",
     "description": "A framework",
+    "homepage": "https://morningmedley.dev/",
     "keywords": [
         "wordpress",
         "morningtrain",
@@ -16,13 +17,13 @@
     ],
     "require": {
         "php": "^8.2",
-        "morningmedley/application": "^0.4",
-        "morningmedley/block": "^0.4",
-        "morningmedley/database": "^0.4",
-        "morningmedley/queue": "^0.4",
-        "morningmedley/hook": "^0.4",
-        "morningmedley/view": "^0.4",
-        "morningmedley/route": "^0.4",
-        "morningmedley/wordpress-config": "^0.4"
+        "morningmedley/application": "^0.4.7",
+        "morningmedley/block": "^0.4.3",
+        "morningmedley/database": "^0.4.2",
+        "morningmedley/queue": "^0.4.1",
+        "morningmedley/hook": "^0.4.4",
+        "morningmedley/view": "^0.4.1",
+        "morningmedley/route": "^0.4.1",
+        "morningmedley/rest": "^0.4.1"
     }
 }
