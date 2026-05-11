@@ -1,12 +1,8 @@
 # Morningmedley
 
-This framework is currently in beta and full documentation is coming shortly.
+Essentially Laravel for WordPress.
 
-Expected 1.0.0 release mid to late 2025.
+## Resources
 
-## Installation
-`composer install morningmedley/medley`
-
-or
-
-`composer create-project morningmedley/app my-app`
+- [Documentation](https://morningmedley.dev/)
+- [Contributing](https://morningmedley.dev/docs/contributing/)
