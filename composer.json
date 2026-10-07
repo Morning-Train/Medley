@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "morningmedley/application": "^0.4.7",
+        "morningmedley/application": "^0.4.8",
         "morningmedley/block": "^0.4.3",
         "morningmedley/database": "^0.4.2",
         "morningmedley/queue": "^0.4.1",
